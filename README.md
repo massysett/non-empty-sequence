@@ -1,15 +1,15 @@
 # non-empty-sequence
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+## Deprecated
+
+I don't maintain this anymore.  I suggest you look at the nonempty-containers
+package.  It does everything this package does, but more and better.
+
+http://hackage.haskell.org/package/nonempty-containers
+
 ## License
 
 This package is released under the BSD3 license. Please see the LICENSE file.
 
-## Building this project
-
-The Cabal file for this project is generated using the Cartel package.
-To generate the Cabal file, simply run `sh buildprep`.
-You must run this command from the project's main directory.
-You will need to have the `stack` program installed.
-
-Stack is available at:
-http://www.haskellstack.org
